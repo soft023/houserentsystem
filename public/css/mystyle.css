@@ -1,0 +1,18 @@
+.tback{
+
+color:#F4D03F  ;
+background:white;
+height: 50%;
+background:rgba(255,255,255,0.7);
+
+}	
+
+.separator { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
